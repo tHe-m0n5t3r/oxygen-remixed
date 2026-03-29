@@ -6,9 +6,8 @@ Comment[it]=Oxygen con diverse icone per file e cartelle
 
 DisplayDepth=32
 
-Inherits=oxygen
-
-Example=folder
+Inherits=oxygen,breeze,hicolor
+FollowsColorScheme=true
 
 LinkOverlay=link
 LockOverlay=lockoverlay
